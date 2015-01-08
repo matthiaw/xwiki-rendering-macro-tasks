@@ -12,6 +12,9 @@ import com.xpn.xwiki.doc.XWikiDocument;
 
 public class DefaultTask implements Task {
 
+	/**
+	 * Role Hint
+	 */
 	private String roleHint;
 	private XWikiDocument xwikiDocument;
 	private DocumentReference documentReference;
