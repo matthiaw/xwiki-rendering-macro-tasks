@@ -1,0 +1,4 @@
+org.xwiki.rendering.tasks.TaskEventListener
+org.xwiki.rendering.tasks.TaskClassBuilder
+org.xwiki.rendering.tasks.TaskClassInitializer
+org.xwiki.rendering.tasks.TaskMacro
